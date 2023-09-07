@@ -1,5 +1,16 @@
 /* Place CSS styles here */
 
 body{
-   background-color: pink;
+   background-color: rgb(252, 5, 153);
+   color: white
+}
+img{
+    width: 20%
+}
+h2{
+color:rgb(94, 6, 121)
+}
+
+ul{
+color:rgb(8, 93, 41)
 }
