@@ -1,20 +1,88 @@
 /* Place CSS styles here */
 
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+h1{
+    border:#ff23a3;
+    text-align: center;
+    padding: 20px;
+    background-color: #ffa8d9;
+}
+
+header{
+    background-color: rgb(255, 35, 163);
+    padding: 50px;
+    text-align: center;
+}
+
+body div img{
+    margin-top: 23px;
+}
+
 body{
+    margin-left: 50px;
+    margin-right: 50px;
    background-color: rgb(255, 255, 255);
    color: #ff23a3
 }
-img{
-    width: 20%
+
+.apply{
+    margin-top: 2%;
+    border-radius: 50%;
+    float: right;
+    font-size: larger;
+    background-color: #ff23a3;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
+
+body div p{
+    margin-left: 55%;
+    margin-right: 5%;
+}
+
+.girls{
+    padding: 5px;
+}
+
 h2{
-color:rgb(255, 35, 163)
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+h3{
+    font-size: x-large;
+}
+
+h2{
+    background-color: #ffa8d9;
+    padding: 30px;
+    color:rgb(255, 35, 163)
 }
 
 ul{
-color:rgb(255, 35, 163)
+    margin-left: 2%;
+    padding: 2px;
+    color:rgb(255, 35, 163)
 }
 
-img{img/15C40985-A9B1-4910-8C89-3D3CD99AEF42_1_105_c.jpeg
-width: 20%
+h4{
+    font-size: larger;
 }
+
+footer{
+    background-color: #ffa8d9;
+    padding: 20px;
+    text-align: center;
+    font-size: larger;
+}
+
